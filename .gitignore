@@ -1,0 +1,14 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+# Plugin settings can hold API keys and tokens
+.obsidian/plugins/*/data.json
+.trash/
+.DS_Store
+.mcp.json
+
+# Source files: back these up with a cloud drive; kept out of git history
+**/Originals/*
+!**/Originals/.gitkeep
+*.pdf
+*.ppt
+*.pptx
