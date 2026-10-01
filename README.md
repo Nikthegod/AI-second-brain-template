@@ -2,16 +2,13 @@
 
 **You capture, Claude Code organises.** Drop notes, clippings, transcripts, PDFs, and slides into an inbox; one command turns them into tagged, linked, well-structured notes filed in the right place.
 
-A ready-to-use Obsidian vault with a rulebook (`CLAUDE.md`), four Claude Code skills, study-note templates, and worked examples in every folder. No personal content.
+A ready-to-use Obsidian vault with a rulebook (`CLAUDE.md`), five Claude Code skills, study-note templates, and worked examples in every folder. No personal content.
 
-<!--
-SCREENSHOTS — add the three images to docs/images/ and remove the comment markers:
 | Before: raw inbox capture | After: `/process-inbox` |
 |---|---|
-| ![Raw clipping in the inbox](docs/images/before.png) | ![The same clipping filed, tagged, and linked](docs/images/after.png) |
+| ![Raw clipping in the inbox](.github/images/before.png) | ![The same clipping filed, tagged, and linked](.github/images/after.png) |
 
-![Graph view of the example vault](docs/images/graph-view.png)
--->
+![Graph view of the example vault](.github/images/graph-view.png)
 
 ## What it does
 
@@ -59,7 +56,7 @@ Optional: to let Claude talk to the running Obsidian app, install the Local REST
 | `5-Resources/` | Books, articles, case studies, life admin, Claude's rule files |
 | `6-Archive/` | Finished material — nothing is ever deleted |
 
-**Full guide:** the [Operating Manual](docs/operating-manual.md) covers capturing, what happens to different file types, tags and MOCs, maintenance, scheduling, rules, costs, and troubleshooting.
+**Full guide:** the [Operating Manual](5-Resources/Operating%20Manual.md) (also a note inside the vault) covers capturing, what happens to different file types, tags and MOCs, maintenance, scheduling, rules, costs, and troubleshooting.
 
 ## Examples included
 

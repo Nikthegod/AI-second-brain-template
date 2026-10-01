@@ -1,6 +1,12 @@
+---
+tags: [second-brain]
+created: 2026-09-30
+status: evergreen
+---
+
 # Operating Manual
 
-Everything needed to run the vault day to day. For setup, see the [README](../README.md).
+Everything needed to run the vault day to day. For first-time setup, see `README.md` in the vault folder (or the project's GitHub page), or run `/setup`.
 
 ## Summary
 

@@ -27,7 +27,7 @@ Ask these together, numbered, and wait for the answers. Say that short answers a
 
 ## 3. Fill in the files
 
-- **`CLAUDE.md`:** replace the placeholders in the opening line, `## About me`, and the spelling line from the answers. Replace the tag list with the user's topics (keep `example` only if the examples are kept). Delete the `<!-- ... -->` hint comments and the "remind me to run `/setup`" line. Keep About me to 3–5 lines.
+- **`CLAUDE.md`:** replace the placeholders in the opening line, `## About me`, and the spelling line from the answers. Replace the tag list with the user's topics, keeping `second-brain` (used by the Operating Manual) and keeping `example` only if the examples are kept. Delete the `<!-- ... -->` hint comments and the "remind me to run `/setup`" line. Keep About me to 3–5 lines.
 - **`goals.md`:** fill in Timeline, Target tracks, and Open questions from answers 3–4. Remove any section left empty.
 - **Projects and areas:** create each folder under `2-Projects/` or `3-Long-term Areas/` and link it from `Home.md`. Don't create MOCs yet; CLAUDE.md creates them at 3 notes.
 
@@ -49,7 +49,7 @@ Then:
 - **Archive:** move each item into `6-Archive/Examples/`, keeping its folder path, and remove the example links from `Home.md`.
 - **Delete:** only if the user explicitly chose delete — remove the items above and their `Home.md` links. Keep every `.gitkeep` so empty folders survive.
 
-Never touch the example inside `5-Resources/Claude Rules/study-notes.md`; it's the template itself.
+Never touch the example inside `5-Resources/Claude Rules/study-notes.md` (it's the template itself) or `5-Resources/Operating Manual.md` (it's the user guide, not an example).
 
 ## 5. Git
 

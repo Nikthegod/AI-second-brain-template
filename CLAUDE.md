@@ -67,7 +67,7 @@ status: seedling
 
 ## Tags (you maintain this list)
 <!-- These are the tags used by the example notes. Replace with 5–15 broad topics of your own; Claude grows and prunes the list from here. -->
-`example`, `finance`, `studies`, `ai`, `books`, `strategy`, `life-admin`
+`second-brain`, `example`, `finance`, `studies`, `ai`, `books`, `strategy`, `life-admin`
 
 - Reuse existing tags first; combine them when a note spans topics.
 - Add a new tag without asking only if all three hold: it's a broad topic likely to cover several notes; no existing tag or close synonym covers it; it's lowercase and hyphenated.

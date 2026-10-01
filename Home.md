@@ -12,6 +12,7 @@ Start here. Each link opens a Map of Content (MOC) for one project or area; proj
 
 ## Resources
 
+- [[Operating Manual]] — how to use this vault day to day
 - [[The Art of War]] *(example book note)*
 - [[Passport Renewal]] *(example Life-Admin note)*
 
